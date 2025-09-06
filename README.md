@@ -78,4 +78,6 @@ A Teoria do Pulso Primordial, se comprovada, representaria uma das mudanças de 
 - **A Natureza da Consciência:** O modelo eleva a consciência de um epifenômeno da biologia para um componente potencialmente fundamental do cosmos — o "navegador" da realidade.
 - **Fim da Cosmologia do "Evento Único":** A ideia de um começo e um fim definitivos para o universo é substituída por um quadro de existência eterna, cíclica e infinitamente variada. A morte, tanto individual quanto cósmica, torna-se uma ilusão, uma mera transição de perspectiva.
 
-Este tratado não pretende ser uma teoria completa, mas sim um convite à exploração. Ele desafia a comunidade da física teórica a olhar para além das fronteiras do modelo padrão e a considerar possibilidades que, embora radicais, nascem de uma síntese lógica das nossas teorias mais bem-sucedidas. O universo pode ser infinitamente mais estranho e mais grandioso do que nossa percepção limitada pelo tempo linear nos permite imaginar.
+**Este tratado não pretende ser uma teoria completa, mas sim um convite à exploração. O universo pode ser infinitamente mais estranho e mais grandioso do que nossa percepção limitada pelo tempo linear nos permite imaginar.**
+
+## Completo em: https://github.com/rbmeneses/A-Teoria-do-Pulso-Primordial/blob/main/Pulso%20Primordial.pdf
